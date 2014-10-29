@@ -1,0 +1,16 @@
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C# & Delphi\DB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# & Delphi\Программки^^\11 - (C#) Прикол\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
